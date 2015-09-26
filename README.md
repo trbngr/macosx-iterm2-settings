@@ -23,5 +23,5 @@ brew cask install iterm2
 Now install the settings:
 
 ```sh
-curl -L https://raw.github.com/fnichol/macosx-iterm2-settings/master/contrib/install-settings.sh | bash
+curl -L https://raw.github.com/trbngr/macosx-iterm2-settings/master/contrib/install-settings.sh | bash
 ```
